@@ -1,4 +1,4 @@
-# recruiter-reply
+# recruiter-replies
 
 ## Summary
 
